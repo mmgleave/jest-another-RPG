@@ -5,3 +5,4 @@
 // change the scripts in package.json to "jest"
 
 // __tests__ is the directory / *.test.js is the file naming convention
+// SOLID - Single responsibility 
