@@ -6,3 +6,6 @@
 
 // __tests__ is the directory / *.test.js is the file naming convention
 // SOLID - Single responsibility 
+
+
+// stopped at 10.3.6
